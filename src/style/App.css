@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  margin:0 auto;
+}
+
+
+#StarInfoTable {
+
+  margin:0 auto; 
+}
+
+#middleDiv {
+  height: 50px;
+}
+
+#starthead td {
+  border-bottom: solid #ACC0D8 1px;
+  width:200;
+}
+
+#StarRegisterForm {
+  display: block;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+table {
+  margin:0 auto;
+}
+
+
